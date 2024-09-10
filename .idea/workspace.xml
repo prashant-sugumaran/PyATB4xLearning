@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eaedd5f3-9d1b-46f4-886a-e6390801e728" name="Changes" comment="new files are added">
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab047.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_31082024/Lab045.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_31082024/Lab045.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_31082024/Lab046.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_31082024/Lab046.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_31082024/Lab047.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_31082024/Lab047.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +111,7 @@
     "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab047">
+  <component name="RunManager" selected="Python.Lab045">
     <configuration name="Lab043" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
@@ -224,9 +224,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab047" />
-        <item itemvalue="Python.Lab046" />
         <item itemvalue="Python.Lab045" />
+        <item itemvalue="Python.Lab046" />
+        <item itemvalue="Python.Lab047" />
         <item itemvalue="Python.Lab044" />
         <item itemvalue="Python.Lab043" />
       </list>
@@ -314,6 +314,17 @@
     </task>
     <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new files are added" />

@@ -3,7 +3,7 @@
 
 class Person:
     id = None
-    ame = None
+    name = None
     age = None
     email = None
     height = None
@@ -23,19 +23,17 @@ class Person:
         print("I am a method")
         return None
 
-    def walk(self):
-        print("I am Walking")
-
     def walk_return(self):
         return "I am walking"
 
+    # Create an object
+obj = Person()
+obj.name = "Prashant"
+obj.talk()
+print(obj.name)
 
-# Create an object of the class
 
-Obj = Person()
-Obj.name = "Prashant"
-print(Obj.name)
-
-Obj1 = Person()
-Obj1.name = "Bruno"
-print(Obj1.name)
+obj1 = Person()
+obj1.name = "Bruno"
+print(obj1.name)
+obj1.talk()
